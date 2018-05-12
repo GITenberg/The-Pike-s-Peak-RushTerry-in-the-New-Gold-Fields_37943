@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '9476'
     url: http://www.gutenberg.org/2009/agents/9476
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37943#The-Pike-s-Peak-RushTerry-in-the-New-Gold-Fields
 gutenberg_issued: '2011-11-06'
 gutenberg_type: Text
 identifiers:
