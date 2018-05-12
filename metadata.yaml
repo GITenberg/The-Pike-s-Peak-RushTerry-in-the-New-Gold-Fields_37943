@@ -1,0 +1,30 @@
+_repo: The-Pike-s-Peak-RushTerry-in-the-New-Gold-Fields_37943
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sabin, Edwin L. (Edwin Legrand)
+    alias: Sabin, Edwin Legrand
+    birthdate: 1870
+    deathdate: 1952
+    gutenberg_agent_id: '9476'
+    url: http://www.gutenberg.org/2009/agents/9476
+description: ''
+gutenberg_issued: '2011-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37943'
+  lccn: '17024099'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gold mines and mining -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Pikes Peak (Colo.) -- Fiction'
+- !lcsh 'Western stories'
+title: The Pike's Peak Rush; Or, Terry in the New Gold Fields
+url: http://www.gutenberg.org/ebooks/37943
